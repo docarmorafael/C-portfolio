@@ -3,7 +3,7 @@
 // valor de consumo superior a 50.
 // Além disso, utiliza o laço de repetição For para percorrer o valor de consumo em cada uma das 10 viagens.
 // Ao final, exibe um relatório com os dados de consumo total de combustível,
-// consumo médio de combustível por viagem, viagem com maior consumo, combustível gasto na viagem e
+// consumo médio de combustível por viagem, viagem com maior consumo, maior quantidade combustível gasto na viagem e
 // quantidade de viagens com consumo superior a 50 litros.
 
 #include <stdio.h>
